@@ -1,0 +1,4 @@
+This is an example of how to subscribe to a collecta search using the Smack XMPP library [http://www.igniterealtime.org/projects/smack/] 
+
+You need to have Smack API in your class path to compile and run this.
+
